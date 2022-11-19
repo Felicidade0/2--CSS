@@ -1,0 +1,20 @@
+body {
+	background-color: #f0f0f0;
+	padding: 100px;
+
+}
+
+
+.textonormal {
+	
+	color: #0951A3;
+}
+
+#destaque {
+	
+	color: #CE491C;
+	font-family: verdana;
+	font-size: 16pt;
+	font-weight: bold;
+	
+}
