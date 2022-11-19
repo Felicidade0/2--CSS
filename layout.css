@@ -1,0 +1,40 @@
+body {
+	margin: 0 auto;
+	width: 1024px;
+	height: 768px;
+	background-color: azure;
+}
+
+header {
+		background-color: blue;
+		height: 100px;
+}
+
+aside {
+		display: inline;
+		position: relative;
+		float: left;
+		width: 200px;
+		height: 600px;	
+		background-color: green;
+}
+
+section {
+	
+		display: inline;
+		position: relative;
+		float: right;
+		height: 600px;
+		width: 824px;
+		background-color: white;
+}
+
+footer {
+	
+		display: block;
+		position: relative;
+		float: left;
+		height: 50px;
+		width: 1024px;
+		background-color: grey;
+}
