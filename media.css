@@ -1,0 +1,34 @@
+/* Estilos gerais */
+
+
+/* Smartphones */
+
+@media screen and (min-width: 320px) {
+	
+    body { background-color: aqua}
+    
+}
+
+/* Smartphones em modo landscape e tablets */
+
+@media screen and (min-width: 768px) {
+	
+    body { background-color: blue}
+    
+}
+
+/* Desktop, tablets em modo landscape e netbooks */
+
+@media screen and (min-width: 1024px) {
+	
+    body { background-color: green}
+    
+}
+
+/* Ecrãs grandes */
+
+@media screen and (min-width: 1200px) {
+	
+    body { background-color: red}
+    
+}
